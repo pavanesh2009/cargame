@@ -1,0 +1,14 @@
+body{margin-top:60px;background-color:#F1F1F1;}
+#intro{margin-bottom:60px; text-align:center; color:#043948; font: italic small-caps normal 13px Copperplate Gothic Bold, sans-serif;}
+#Objcar {position:absolute;left:0px;top:7em;width:6em;line-height:2em;}
+#wall {position:absolute; right:0px; top:6em;}
+#bang{ width:600px; margin:0 auto;}
+#start{width:114px;font-family:'Segoe UI','Open Sans',Arial,sans-serif;display:block;color:#fff;text-decoration:none;text-align:center;padding:10px;margin:15px 0 0 15px;font-size:18px;text-transform:uppercase;background:#00A300;color:#FFF;border:0 none;outline:0 none}
+#stop{width:114px;font-family:'Segoe UI','Open Sans',Arial,sans-serif;display:block;color:#fff;text-decoration:none;text-align:center;padding:10px;margin:15px 0 0 15px;font-size:18px;text-transform:uppercase;background:#B91D47;color:#FFF;border:0 none;outline:0 none}
+#rewind{width:114px;font-family:'Segoe UI','Open Sans',Arial,sans-serif;display:block;color:#fff;text-decoration:none;text-align:center;padding:10px;margin:15px 0 0 15px;font-size:18px;text-transform:uppercase;background:#2D89EF;color:#FFF;border:0 none;outline:0 none}
+#start:hover{background:#008300;}
+#start:disabled{background:#ccc; color:#ddd;}
+#stop:hover{background:#A51D47;}
+#rewind:hover{background:#0f62bf;}
+button{display:inline;}
+.buttonset{list-style-type:none; display:inline; position:absolute; margin-left:480px;  margin-top:130px;}
